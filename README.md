@@ -1,4 +1,4 @@
-
+ORIGINAL README:
 # APS3e - Android PS3 Emulator  
 **Free | Ad-free | Open Source (Partial)**
 
@@ -13,7 +13,7 @@ A free PlayStation 3 emulator for Android devices,base on RPCS3
 
 ## Support the Project  
 ❤️ Help sustain development through donations:  
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)]()  
+CENSORED (not endorsing this)
 
 💰 **Source Code Milestone**:  
 Full source code will be released when total donations reach **$2,000 USD**.  
@@ -26,5 +26,4 @@ Full source code will be released when total donations reach **$2,000 USD**.
 This emulator is intended for educational purposes only. Users must comply with all applicable laws regarding game ROM ownership and usage. The developer assumes no responsibility for misuse.
 
 ## Contact  
-📧 GitHub Issues (English/Chinese): https://github.com/aenu/aps3e/issues  
-
+📧 GitHub Issues (English/Chinese): https://github.com/aenu/aps3e/issues
